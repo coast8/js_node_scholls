@@ -2,13 +2,27 @@
 
 # Chapter 1 a 7
 
-- Express
-- NodeMon
-- EJS 		=> para criação de templates html
+- Express 	=> utilitários HTTP, middleware e API.
+- NodeMon 	=> recarrega app sem derubar app.
+- EJS 		=> para criação de templates html.
 
-- drive p mysql
-- sistema de modulos
-- consign    => util para a inclusao de rotas de formas automaticas `autoload`
+
+- commonJS
+	
+	https://pt.wikipedia.org/wiki/CommonJS
+	
+- sistema de modulos 
+
+	https://www.udemy.com/course/curso-completo-do-desenvolvedor-nodejs/learn/lecture/5590922#notes
+ 
+- drive p mysql.
+
+	https://www.luiztools.com.br/post/como-usar-nodejs-mysql/
+
+
+- consign    		=> util para a inclusao de rotas de formas automaticas `autoload`
+
+	https://www.npmjs.com/package/consign
 
 
 
