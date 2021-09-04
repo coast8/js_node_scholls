@@ -34,9 +34,10 @@
 	
 - body-parser
 
-	`foi instalando o body-parser para manipular os dados recebidos via request. https://www.npmjs.com/package/body-parser`
-
-	`o mesmo funciona como um midleware, objeto que vai operar em requisicoes e respostas`
+	foi instalando o body-parser para manipular os dados recebidos via request POST, usando ele o express consiguirar ler o atributo body. 
+	o mesmo funciona como um midleware, objeto que vai operar em requisicoes e respostas
+	
+	https://www.npmjs.com/package/body-parser`
 
 
 
