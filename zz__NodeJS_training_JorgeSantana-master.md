@@ -44,8 +44,9 @@
 
 # Chapter 9
 
-- classes js     => 
-- prototype      => permite acessar propriedades das funções
+- classes js     		=> 
+- instancia de modulos 		=>
+- prototype      		=> permite acessar propriedades das funções.
 - uma pratica em js colocar _ em uma variavel oriumda da propia classe.
 
 
@@ -54,8 +55,10 @@
 # Chapter 10
 
 - expess-validator
+	
+	para validar os inputs de dados. 
 
-	`p validar os inputs d dados. https://www.npmjs.com/package/express-validator`
+	https://www.npmjs.com/package/express-validator`
 
 - validar os dados
 - exibir os erros
@@ -66,7 +69,7 @@
 
 - websocket 
 
-	`https://socket.io/`
+	https://socket.io/
 
 
 
@@ -87,7 +90,9 @@ MONGO
 
 - crypto
 
-	`Utilizando o crypto para criptografar os dados, https://nodejs.org/api/crypto.html`
+	Utilizando o crypto para criptografar os dados. 
+	
+	https://nodejs.org/api/crypto.html
 
 
 
@@ -107,10 +112,13 @@ MONGO
 - 11. Method Delete by ID Removendo documentos por ID no MongoDB
 
 - 16. NPM - instalando o Connect-Multiparty
-	paraa plicaçcao interpretar formularios Multi-form-data
+
+	para plicaçao interpretar formularios Multi-form-data
 
 
 - 23. Preflight Request
+	
 	bug com verbos PUT e DELETE.
+	
 	corrigir o erros de croos
 
